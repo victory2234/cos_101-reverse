@@ -1,0 +1,11 @@
+number = [1, 2, 3, 4, 5]
+fruit_list = ['apple', 'banana', 'cherry', 'date', 'elderberry']
+
+# Original list
+print("Original fruit_list:", fruit_list)
+
+# Reverse the list
+fruit_list.reverse()
+
+# Print the reversed list
+print("Reversed fruit_list:", fruit_list)
